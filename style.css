@@ -9,7 +9,7 @@ body
 {
     height: 100vh;
     background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6));
-    background-image: url(img/background.jpg);
+    background-image: url(background.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed; 
@@ -273,7 +273,7 @@ padding: initial;
 { 
 padding-top: 50px;
     background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8));
-    background-image: url(img/background2.jpg);
+    background-image: url(background2.jpg);
 	background-position: center;
 	background-size: cover;
 	background-attachment: fixed;
